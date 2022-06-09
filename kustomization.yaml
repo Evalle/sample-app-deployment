@@ -7,4 +7,4 @@ resources:
 
 images:
 - name: gitopsbook/sample-app
-  tag: v0.1
+  neWtag: v0.1
