@@ -1,0 +1,1 @@
+{"jobID":"93e2e3a5-3f7a-db68-c434-838e8db3539e","spec":{"type":"policy","cause":{"Message":"","User":"Evgeny Shmarnev \u003cshmarnev@gmail.com\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
